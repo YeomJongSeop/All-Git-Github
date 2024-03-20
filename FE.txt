@@ -1,2 +1,3 @@
-FE
-
+- HTML & CSS
+- Java
+- React
